@@ -33,6 +33,6 @@ if a != 0:
         print (The only root: 0')
 
 else:
-    print ('For a quadratic equation coefficient "a" must not be equal to 0')
-    print ('Restart and enter a different coefficient for "a"')
+    print ('For a quadratic equation coefficient a must not be equal to 0')
+    print ('Please restart and enter a different coefficient for a')
         
