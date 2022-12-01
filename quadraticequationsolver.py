@@ -1,7 +1,7 @@
 from math import sqrt
 x1 = 0
 x2 = 0
-print('Enter three coefficients for this formula: ')
+print('Enter coefficients a, b and c for this formula: ')
 print('a*x^2 + b*x + c = 0')
 a = float(input('a = '))
 if a != 0:
